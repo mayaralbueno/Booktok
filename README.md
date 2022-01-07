@@ -10,6 +10,15 @@
 </p>
 
 
+ <h2  align="center"> PREVIEW  📚<h2>
+        
+      
+ <p align="center">
+<img src="https://media.giphy.com/media/V1g6nKAdQdK45w5gYb/giphy.gif" style="width: 65%;">
+</p>
+
+
+
 
    
    
